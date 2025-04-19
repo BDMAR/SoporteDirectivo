@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:28:59	409/409	---M--	200	added ('Robots.txt')	text/plain	date:Fri,%2018%20Apr%202025%2023:28:59%20GMT	https://dev-soportesjhumeka.pantheonsite.io/robots.txt		(from )
+18:28:59	236948/236948	---M-Z	200	added ('OK')	text/html	date:Fri,%2018%20Apr%202025%2023:28:59%20GMT	https://dev-soportesjhumeka.pantheonsite.io/	C:/Users/JHUMEKA/Desktop/SoporteDirectivo/SoporteDirectivo/dev-soportesjhumeka.pantheonsite.io/index.html	(from )
+18:29:00	1721/1721	---MCZ	400	error ('Bad%20Request')	text/html	date:Fri,%2018%20Apr%202025%2023:29:00%20GMT	https://www.google.com/recaptcha/api.js?render=6LfRT5IqAAAAACO1Saq3mdr1da9UUUzsm_SMKb0Z	C:/Users/JHUMEKA/Desktop/SoporteDirectivo/SoporteDirectivo/www.google.com/recaptcha/api.0dad9.delayed	(from https://dev-soportesjhumeka.pantheonsite.io/)
